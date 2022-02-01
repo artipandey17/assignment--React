@@ -1,0 +1,136 @@
+.heading{
+    margin-top: 7%;
+    margin-left: 3;
+    color:rgb(0, 51, 102);
+    font-size:20px
+}
+.main{
+padding: 5rem;
+
+}
+.lorem{
+    background-color: #f3f2f2;
+}
+.button{
+    font-weight: 500;
+    font-size:11px;
+    letter-spacing: 2px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color:rgb(0, 51, 102); 
+    }
+    .button a{
+        
+        color: white !important;
+    }
+
+
+.header-img{
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-image: url(/src/images/img3.jpg);
+    height: 60vh; 
+   
+}
+ /* .header-img::before{
+   
+        content:"";
+        position:absolute;
+        top:0%;
+        bottom:0%;
+        left:0%;
+        right:0%;
+        opacity:.4;
+        z-index:-1;
+        background:linear-gradient(to left ,#3d91f2 100%,#0ac2f0 100%, #0d66bf 100%);
+      
+}   */
+.content{
+    color: #888888;
+    text-align:justify;
+}
+
+.card{
+    /* padding: 100px; */
+	/* margin: 50px; */
+    margin: 0;
+	height: auto;
+	text-align: center;
+}
+.extra-div1{
+	background: #dfeaf5;
+	border: medium;
+    float:left; 
+    background-color:rgb(102, 163, 255);
+	padding: 30px;
+	border-radius: 3px;
+	transition: 0.3s;
+    text-decoration-color:#110642; 
+}
+
+.extra-div2{
+	background: #dfeaf5;
+	border: medium;
+    float:left; 
+    background-color:rgb(0, 122, 204);
+	padding: 30px;
+	border-radius: 3px;
+	transition: 0.3s;
+    text-decoration-color:#110642; 
+}
+.extra-div3{
+	background: #dfeaf5;
+	border: medium;
+    float:right; 
+    background-color:rgb(0, 51, 102);
+	padding: 30px;
+	border-radius: 3px;
+	transition: 0.3s;
+    text-decoration-color:#110642; 
+}
+.container{
+    margin:0;
+    padding: 0;
+    max-width:1500; 
+}
+.list{
+    display: grid;
+    float: left;
+    justify-content: space-around;
+} 
+.list a{
+    color: white;
+} 
+ 
+.list1{
+    align-items: center;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+.quick-links{
+margin-right: 20rem;
+display: grid;
+}
+.quick-links a{
+    color: white;
+}
+/* last section css */
+.column1{
+    margin-top: 15rem;
+    padding: 1rem;
+}
+.date{
+    float: left;
+}
+.exam{
+    color: rgb(0, 51, 102);
+    margin-left: 6rem;
+}
+.level{
+    color: rgb(0, 51, 102);
+    margin-left: 1rem;
+}
+.new{
+    padding-top: 2.2rem;
+}
