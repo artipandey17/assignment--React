@@ -323,6 +323,9 @@ width: 260px;
     display: flex;
     justify-content: center;
 }
+.text-main{
+    display: flex;
+}
 .footer{
 /* margin: 3rem; */
 padding: 2.5rem;
