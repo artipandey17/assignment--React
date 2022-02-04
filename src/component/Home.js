@@ -478,7 +478,7 @@ export default function Home() {
                     <p>There are many variations of passages of Lorem Ipsum available,
                       but the majority have suffered alteration in some form, by injected humour</p>
                     <div className='text-main'>
-                      <input type="text" className='col-md-7 lg-7 textbox' placeholder=" Enter Your Email Address" />
+                      <input type="text" className='col-md-5 lg-5 textbox' placeholder=" Enter Your Email Address" />
                       <a href="#" className='button3'> Subscribe Now  <IoIosArrowDroprightCircle style={icon} /></a>
                     </div>
                   </div>
@@ -526,24 +526,24 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-4 col-12 mb-2 footer-cols">
+            <div className="col-lg-4 col-md-4 col-12  footer-cols">
               <h4>Head Office</h4>
               <div>
                 <div className='head-office'>
                   <ImLocation style={lo} />
-                  <p >There are many variations of passages of Lorem Ipsum available</p>
+                  <p >There are many variations of passages of Lorem Ipsum </p>
                 </div>
                 <div className='head-office'>
                   <BiTime style={c} />
-                  <p>There are many variations of passages of Lorem Ipsum available</p>
+                  <p>There are many variations of passages of Lorem Ipsum </p>
                 </div>
                 <div className='head-office'>
                   <BiTime style={c} />
-                  <p>There are many variations of passages of Lorem Ipsum available</p>
+                  <p>There are many variations of passages of Lorem Ipsum </p>
                 </div>
                 <div className='head-office'>
                   <FaTrain style={tr} />
-                  <p>There are many variations of passages of Lorem Ipsum available</p>
+                  <p>There are many variations of passages of Lorem Ipsum </p>
                 </div>
 
               </div>
