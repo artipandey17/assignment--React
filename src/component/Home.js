@@ -478,7 +478,7 @@ export default function Home() {
                     <p>There are many variations of passages of Lorem Ipsum available,
                       but the majority have suffered alteration in some form, by injected humour</p>
                     <div className='text-main'>
-                      <input type="text" className='col-md-3 lg-5 textbox' placeholder=" Enter Your Email Address" />
+                      <input type="text" className=' textbox2' placeholder=" Enter Your Email Address" />
                       <div>
                       <a href="#" className='button3'> Subscribe Now  <IoIosArrowDroprightCircle style={icon} /></a>
                      </div>

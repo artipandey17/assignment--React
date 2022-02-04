@@ -323,9 +323,10 @@ width: 260px;
     display: flex;
     justify-content: center;
 }
-.text-main{
-    display: flex;
-}
+/* .text-main{
+   width: 2px;
+
+} */
 .footer{
 /* margin: 3rem; */
 padding: 2.5rem;
@@ -362,8 +363,8 @@ text-align: left;
     color: white;
      margin-left: 9px; 
 }
-.textbox{
-    width: 100%;
+.textbox2{
+    width:"100px";
     padding: 10px 5px;
    
     display: inline-block;
