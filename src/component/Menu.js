@@ -12,20 +12,36 @@ export default function Menu() {
   </div>
   <div className='link-menu'>
  <ul>
-  <li>
-  <a href='#'>Organizations</a>
-  </li> 
-  <li>
-  <a href='#'>Qualifications</a>
-  </li>  <li>
-  <a href='#'>Report Analysis</a>
-  </li>  <li>
-  <a href='#'>Lorem Ipsum</a>
-  </li>  <li>
-  <a href='#'>Lorem Ipsum</a>
-  </li>  <li>
-  <a href='#'>Contact</a>
-  </li> 
+ <li className="nav-item dropdown">
+   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+  Organizations
+    </a>
+    </li>  
+  <li className="nav-item dropdown">
+   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+  Qualifications
+    </a>
+    </li>   
+  <li className="nav-item dropdown">
+   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+  Report Analysis
+    </a>
+    </li>  
+  <li className="nav-item dropdown">
+   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+  Lorem Ipsum
+    </a>
+    </li> 
+  <li className="nav-item dropdown">
+   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+  Lorem Ipsum
+    </a>
+    </li>  
+  <li className="nav-item dropdown">
+   <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Contact
+    </a>
+    </li>
  </ul>
   </div>
   <div className='search'>
