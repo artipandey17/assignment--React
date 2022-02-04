@@ -479,9 +479,9 @@ export default function Home() {
                       but the majority have suffered alteration in some form, by injected humour</p>
                     <div className='text-main'>
                       <input type="text" className=' textbox2' placeholder=" Enter Your Email Address" />
-                      <div>
-                      <a href="#" className='button3'> Subscribe Now  <IoIosArrowDroprightCircle style={icon} /></a>
+                     <a href="#" className='button3'> Subscribe Now  <IoIosArrowDroprightCircle style={icon} /></a>
                      </div>
+                     <div>
                     </div>
                   </div>
 
