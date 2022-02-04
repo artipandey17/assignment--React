@@ -228,7 +228,7 @@ export default function Home() {
       {/* section 5 starts */}
 
       <section className='section5'>
-        <div className="section-5 container">
+        <div className="section-5 container-fluid nav-bg">
           <div className="row">
 
             <div className="col-lg-3 col-md-3 col-12">
@@ -281,7 +281,7 @@ export default function Home() {
           </div>
         </div>
         <section className='section'>
-          <div className=" passage1 container ">
+          <div className=" passage1 container-fluid nav-bg ">
             <div className="row passage">
               <div className="col-lg-4 col-md-4 col-12">
                 <div>
@@ -319,7 +319,7 @@ export default function Home() {
       </section>
       {/* section 6 starts here */}
       <section className='section-6'>
-        <div className=" container  ">
+        <div className=" container-fluid nav-bg ">
           <div className="row ">
             <div className="col-lg-4 col-md-4 col-12 ">
               <div className="container image">
@@ -335,7 +335,7 @@ export default function Home() {
 
             </div>
             <div className="col-lg-4 col-md-4 col-12 cols-img">
-              <div className="container image">
+              <div className="container-fluid nav-bg image">
                 <img src={new1} className="card-img-top" alt="..." />
                 <div class="card-body">
                   <div className='p-1'>
@@ -526,7 +526,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-            <div className="col-lg-4 col-md-4 col-12 mb-3 footer-cols">
+            <div className="col-lg-4 col-md-4 col-12 mb-2 footer-cols">
               <h4>Head Office</h4>
               <div>
                 <div className='head-office'>

@@ -317,7 +317,7 @@ font-size: 12px;
 /* section 8 */
 .phone{
 background-size: 100% 100%;
-width: 300px;
+width: 260px;
 }
 .phone-img{
     display: flex;
@@ -325,7 +325,7 @@ width: 300px;
 }
 .footer{
 /* margin: 3rem; */
-padding: 6rem;
+padding: 4rem;
 background-color: rgb(0, 51, 102);
 }
 .footer-cols{
